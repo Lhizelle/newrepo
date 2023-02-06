@@ -1,0 +1,52 @@
+/* Copy and paste your CSS from CodePen into here */
+<style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+#main {
+  font-family: Georgia, sans-serif;
+}
+#img-div {
+  max-width: auto;
+  padding: 20px;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: auto;
+}
+h1, p, h4, h3 {
+  text-align: center;
+}
+hr {
+  height: 3px;
+  background-color: black;
+  border-color: black; 
+}
+body {
+background-color: #EAEDED;
+}
+#title {
+  color: #212121;
+}
+#img-caption {
+  font-style: italic;
+}
+#tribute-info {
+  background: rgb(179, 179, 179, 0.3); /* Grey background with opacity */
+  padding: 20px;
+  line-height: 1.5;
+}
+
+/* FOOTER */
+
+#tribute-link {
+  color: black;
+  text-align: center;
+  font-style: italic;
+}
+#tribute-link:visited {
+  color: grey;
+}#tribute-link:hover {
+  color: #a6a6a6;
+}
